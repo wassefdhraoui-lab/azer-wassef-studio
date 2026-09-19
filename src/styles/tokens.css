@@ -1,0 +1,19 @@
+:root {
+  --paper: #efefe7;
+  --ink: #242720;
+  --accent: #d9f76a;
+  --accent-ink: #425315;
+  --muted: #62665b;
+  --rule: #cbd0c0;
+  --white-paper: #f8f8f2;
+  --font-body: var(--font-instrument), sans-serif;
+  --font-mono: var(--font-plex), monospace;
+  --gutter: clamp(24px, 5.6vw, 112px);
+  --space-xs: 8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 40px;
+  --space-xl: 64px;
+  --duration: 180ms;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}

@@ -1,0 +1,25 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+test-results/
+playwright-report/
+qa-artifacts/
+*.log
+
+# Local design references and scratch workspace
+/Claude-Code-Frontend-Design-Toolkit/
+/codex-skills-temp/
+/ui-ux-pro-max-skill/
+/Jari_website/
+
+# Local editor, deployment, and OS files
+.vscode/
+.idea/
+.vercel/
+.DS_Store
+Thumbs.db
+*.pem
+*.key
